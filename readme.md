@@ -93,6 +93,7 @@ Este repositório contém os seguintes arquivos de estudo sobre NumPy:
 
 - **NumPyArrayCopia_vs_Visualizacao.py** - Diferenças entre cópias (copy) e visualizações (view) de arrays
 - **IterandoMatrizes.py** - Métodos para iterar sobre arrays multidimensionais
+- **Carregamento_de_dados_e_indexacao_avancada.py** - Carregamento de dados e indexação avançada a partir de arquivo txt.
 
 ---
 
